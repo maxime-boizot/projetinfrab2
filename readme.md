@@ -57,7 +57,7 @@ Firewall: installation et configuration: 2h
 
 ### schéma réseau:
 
-![](/schema-réseau.png)
+![](/schema-reseau.png)
 
 ### RACI:
 ![](/RACI.png)
