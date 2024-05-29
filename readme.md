@@ -29,7 +29,7 @@ Réalisation du plan d'éxécution: 1h
 
 Schéma: 2h
 
-### mise en place de l'infrastructure 20hl
+### mise en place de l'infrastructure 20h
 
 Server 1: instalation OS + mise en place AD/DHCP: 4h
 
@@ -40,3 +40,8 @@ servers 3: instalation OS + mise en place de l'accès https pour le chef et le c
 poste client x4: installation des OS + intégration aux servers: 6h
 
 Firewall: installation et configuration: 2h
+
+
+### schéma réseau:
+
+![](/schema-réseau.png)
